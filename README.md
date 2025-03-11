@@ -1,3 +1,6 @@
+A very simple Tic-Tac-Toe Game made from my first lesson in React
+https://react.dev/learn/tutorial-tic-tac-toe
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
