@@ -23,7 +23,6 @@ To run the game locally, follow these steps:
 - React
 - CSS
 
-## License
-This project is licensed under the MIT License.
+## License 📜
 
-
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
