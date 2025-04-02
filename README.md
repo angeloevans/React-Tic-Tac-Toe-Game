@@ -1,6 +1,6 @@
 # React Tic Tac Toe Game
 
-A simple Tic-Tac-Toe game built with React.
+A simple Tic-Tac-Toe game built with React from a tutorial.
 
 ## Features
 - Two-player game (X and O).
