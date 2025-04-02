@@ -40,10 +40,10 @@ Through this project, I reinforced my understanding of the following React conce
 
 4. **Run the app**:
     ```bash
-    npm start
+    npm run dev
     ```
 
-5. Open your browser and visit [http://localhost:3000](http://localhost:3000) to play the game.
+5. Open your browser and visit [http://localhost:3000](http://localhost:5173) to play the game.
 
 ## 💻 How It Works
 
